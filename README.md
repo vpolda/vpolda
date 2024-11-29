@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vpolda
 - 👀 I’m interested in everything these days, mainly PCB design, FPGA development, and whatever else that week
-- 🌱 I’m currently learning PCB design
+- 🌱 I’m currently learning SoC design, Direct Memory Access, PCB design
 - 📫 How to reach me: www.linkedin.com/in/victoriapolda
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I have a pet snake named Kynes
